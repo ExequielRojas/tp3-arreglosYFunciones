@@ -1,4 +1,4 @@
-# Trabajo Practico N°2 - Arreglos y funciones
+# Trabajo Practico N°3 - Arreglos y funciones
 
 Este trabajo practico es un proyecto educativo enfocado en la práctica y resolución de ejercicios relacionados con arreglos y funciones en JavaScript. Este trabajo práctico tiene como objetivo reforzar conceptos fundamentales de programación en el contexto del desarrollo web.
 
@@ -15,10 +15,10 @@ Este trabajo practico es un proyecto educativo enfocado en la práctica y resolu
 ## 🚀 Cómo Utilizar
 
 1. Clona el repositorio en tu máquina local:
-`git clone https://github.com/ExequielRojas/tp2-arreglosYFunciones.git`
+`git clone https://github.com/ExequielRojas/tp3-arreglosYFunciones.git`
 
 1. Navega a la carpeta del proyecto:
-`cd tp2-arreglosYFunciones`
+`cd tp3-arreglosYFunciones`
 
 1. Abre el archivo `index.html` en tu navegador preferido para interactuar con los ejercicios.
 
